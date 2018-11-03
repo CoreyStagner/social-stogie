@@ -1,0 +1,19 @@
+{
+  "name": "social-stogie",
+  "version": "1.0.0",
+  "description": "A Social Platform to share about Cigars.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoreyStagner/social-stogie.git"
+  },
+  "author": "Corey Stagner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoreyStagner/social-stogie/issues"
+  },
+  "homepage": "https://github.com/CoreyStagner/social-stogie#readme"
+}
